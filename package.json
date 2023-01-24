@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "glueball",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@gluon-framework/gluon": "^0.11.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
